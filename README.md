@@ -1,7 +1,7 @@
 
 # Ola Amigos! 👋 
 I'm a newbie software developer who likes to explore frontend development.
-• 
+• sdadsasda
 
 ## 🌐 Socials:
 
