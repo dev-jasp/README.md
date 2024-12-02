@@ -1,11 +1,10 @@
-
 # Ola Amigos! 👋 
 I'm a newbie software developer who likes to explore frontend development.
 
 
 ## Socials:
 
-## Tech Stack:
+<h2 style="color: #38B2AC; font-size: 18px;">Tech Stack</h2>
 
 - <span style="font-size: px;">![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</span>
 - <span style="font-size: px;">![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)</span>
